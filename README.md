@@ -15,7 +15,7 @@ git clone git://github.com/Teal-c/rtModern-Plex.git rtModern-Plex
 chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Plex
 ```
 
-### Thème pour Jellyfin
+#### Thème pour Jellyfin
 
 github : https://github.com/Teal-c/rtModern-Jellyfin
 
