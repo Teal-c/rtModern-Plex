@@ -17,7 +17,7 @@ chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/rtModern-Plex
 
 #### Les autres thèmes
 
-github : https://github.com/Teal-c/rtModern
+URL : https://github.com/Teal-c/rtModern
 
 #### Script d'installation ruTorrent Bonobox 
 
